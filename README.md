@@ -25,19 +25,29 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="900" height="386" alt="image" src="https://github.com/user-attachments/assets/ec7c48af-b78e-49e1-9e91-55200cace0f3" />
+
 
 
 **To measure RTh or RN**
+<img width="900" height="379" alt="image" src="https://github.com/user-attachments/assets/4ebccddb-4b16-4f9c-ae5d-b4a46d42b4c8" />
+
 
 
 
 **To measure IN or Isc**
+<img width="900" height="542" alt="image" src="https://github.com/user-attachments/assets/661483c2-3ff6-4f24-92f5-622139a82b08" />
+
 
  
 **Thevenin’s equivalent circuit**
+<img width="900" height="591" alt="image" src="https://github.com/user-attachments/assets/698d69f8-7869-44ca-bb24-3c3236651c4f" />
+
 
 
 **Norton’s equivalent circuit**
+<img width="900" height="509" alt="image" src="https://github.com/user-attachments/assets/ec955097-a208-40a1-b57a-fd60d05a0415" />
+
 
 
 **PROCEDURE:**
@@ -74,12 +84,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 To measure I L
 
 Vi (volts)	IL (amps)
+<img width="1001" height="325" alt="image" src="https://github.com/user-attachments/assets/eeef5460-ae47-4116-963d-d7883407a2a5" />
+
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
+<img width="906" height="377" alt="image" src="https://github.com/user-attachments/assets/93f83f21-9cae-4cf4-8680-21091beab2a4" />
+
 
 
 **TABULAR COLUMN:3**
@@ -87,6 +101,8 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
+<img width="724" height="472" alt="image" src="https://github.com/user-attachments/assets/97c4f7c4-dd36-4776-90e4-eb65fcd0c885" />
+
 	
 **MODEL CALCULATION:**
 
@@ -97,6 +113,8 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a2e3808-3a18-4a59-9132-fba1316b9b48" />
+
  
 
 
